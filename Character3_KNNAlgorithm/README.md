@@ -1,2 +1,3 @@
-# StatisticalLearningMethod
-统计学习方法课程笔记和作业代码整理
+# K近邻算法
+>本节介绍：<br>
+>> 这一章介绍了K近邻算法（简称KNN），
