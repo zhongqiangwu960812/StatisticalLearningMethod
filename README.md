@@ -12,3 +12,4 @@
 >> [李航《统计学习方法》中机器学习模型的LaTeX公式笔记](https://github.com/anch3or/Machine-Learning-Notes)<br>
 >> [李航《统计学习方法笔记》中的代码、notebook、参考文献、Errata](https://github.com/SmirkCao/Lihang)<br>
 >> [李航《统计学习方法》习题笔记](https://sine-x.com/statistical-learning-method)
+>> [《统计学习方法》的代码实现](https://github.com/fengdu78/lihang-code)
